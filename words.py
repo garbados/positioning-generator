@@ -4,7 +4,9 @@ target = [
     'misogynists',
     'convicts',
     'the under-exploited',
-    'dat ass'
+    'dat ass',
+    'the cloud',
+    'NSA Agents'
 ]
 
 product = [
@@ -14,7 +16,8 @@ product = [
     'a sandwich on fire',
     'piles of money',
     'marketing research',
-    'mountains of cocaine'
+    'mountains of cocaine',
+    'social network 3.0
 ]
 
 value = [
@@ -23,7 +26,8 @@ value = [
     'get you laid six feet under',
     'reduce your chances of being assassinated',
     'inflict facial hair',
-    'cause guys and sports'
+    'cause guys and sports',
+    'reinvent marketing
 ]
 
 other = [
@@ -35,7 +39,8 @@ other = [
     'a mumbled sales pitch',
     'an overbearing boss',
     'a bossy over-bear',
-    'the ubermensch'
+    'the ubermensch',
+    'the CTO'
 ]
 
 benefit = [
@@ -46,5 +51,6 @@ benefit = [
     'of cancerous side-effects',
     'of the unthinkable alternative',
     'you envy my social status',
-    'hashtag yoloswag, hashtag twerking'
+    'hashtag yoloswag, hashtag twerking',
+    'gets you laid, yo'
 ]
