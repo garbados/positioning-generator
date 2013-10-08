@@ -15,7 +15,9 @@ target = [
     'recovering Catholics',
     'authority manipulators',
     'holographic sociopaths',
-    'tumblr users who misquote Sylvia Plath'
+    'tumblr users who misquote Sylvia Plath',
+    'The Cloud',
+    'NSA Agents'
 ]
 
 product = [
@@ -25,7 +27,11 @@ product = [
     'a sandwich on fire',
     'piles of money',
     'marketing research',
-    'mountains of cocaine'
+    'mountains of cocaine',
+    'blues dancing',
+    'hashtag thicke',
+    'very noisy intercourse',
+    'Barack Obama'
 ]
 
 value = [
@@ -34,7 +40,12 @@ value = [
     'get you laid six feet under',
     'reduce your chances of being assassinated',
     'inflict facial hair',
-    'cause guys and sports'
+    'cause guys and sports',
+    'reinvent marketing',
+    'put your inner child in touch with other inner children',
+    'fund the tacocopter',
+    'make you the high lord of Skyrim',
+    'disappear the bad people'
 ]
 
 other = [
@@ -46,7 +57,8 @@ other = [
     'a mumbled sales pitch',
     'an overbearing boss',
     'a bossy over-bear',
-    'the ubermensch'
+    'the ubermensch',
+    'the CTO'
 ]
 
 benefit = [
@@ -57,5 +69,8 @@ benefit = [
     'of cancerous side-effects',
     'of the unthinkable alternative',
     'you envy my social status',
-    'hashtag yoloswag, hashtag twerking'
+    'hashtag yoloswag, hashtag twerking',
+    'you asked for consent first',
+    'of an unplaceable nostalgia',
+    'Hitler. Always Hitler'
 ]
