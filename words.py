@@ -4,7 +4,18 @@ target = [
     'misogynists',
     'convicts',
     'the under-exploited',
-    'dat ass'
+    'dat ass',
+    'embarassing dads',
+    'your dickhead uncle',
+    'deadly cyborg girl gangs',
+    'corporate puppets',
+    'disillusioned liberals',
+    'ex-anarchists',
+    'nudist lesbian bee-farms',
+    'recovering Catholics',
+    'authority manipulators',
+    'holographic sociopaths',
+    'tumblr users who misquote Sylvia Plath'
 ]
 
 product = [
