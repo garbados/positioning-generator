@@ -16,8 +16,9 @@ target = [
     'authority manipulators',
     'holographic sociopaths',
     'tumblr users who misquote Sylvia Plath',
-    'The Cloud',
-    'NSA Agents'
+    'celibate pedophiles',
+    'closet transhumanists',
+    'multiple lightning strike victims'
 ]
 
 product = [
@@ -28,10 +29,22 @@ product = [
     'piles of money',
     'marketing research',
     'mountains of cocaine',
-    'blues dancing',
-    'hashtag thicke',
-    'very noisy intercourse',
-    'Barack Obama'
+    'poorly-timed erections',
+    'secret second lives',
+    'coupons for free oatmeal',
+    'misunderstood microagressions',
+    'polyamorous ex-girlfriends',
+    'lower-ass pimples',
+    'a spray can of something that seems to be both floor wax and a desert topping',
+    'codename: shuttlecock',
+    'augmented surreality',
+    'simulacrum and simulations',
+    'the hypermarket',
+    'made up simplification of post-structuralism',
+    'alcoholic monogamists',
+    'Nice Guy Syndrome',
+    'chronic fedora wearing',
+    'naked baby photos'
 ]
 
 value = [
@@ -41,11 +54,19 @@ value = [
     'reduce your chances of being assassinated',
     'inflict facial hair',
     'cause guys and sports',
-    'reinvent marketing',
-    'put your inner child in touch with other inner children',
-    'fund the tacocopter',
-    'make you the high lord of Skyrim',
-    'disappear the bad people'
+    'sponge bathe you in antioxidants',
+    'keep you from noticing the affair',
+    'let you know the moment before you say something stupid',
+    'keep you up to date on hip music',
+    'literally keep you alive forever',
+    'automatically update your tumblr',
+    'posthumously update your LiveJournal',
+    'send erotic emails to your crush',
+    'remove the calories from the custard',
+    'improve your bowling average',
+    'finally help you appreciate baseball',
+    'turn you invisible',
+    'numb the unceasing cold ache in your heart'
 ]
 
 other = [
@@ -58,7 +79,14 @@ other = [
     'an overbearing boss',
     'a bossy over-bear',
     'the ubermensch',
-    'the CTO'
+    'an angry poodle',
+    'an entitled rich mom',
+    'the huddled masses',
+    'neurotic celebrities',
+    'that one friend you feel weird about',
+    'the one that got away',
+    'poorly explained standardized testing instructions',
+    'burnt-out arctic explorers'
 ]
 
 benefit = [
@@ -70,7 +98,12 @@ benefit = [
     'of the unthinkable alternative',
     'you envy my social status',
     'hashtag yoloswag, hashtag twerking',
-    'you asked for consent first',
-    'of an unplaceable nostalgia',
-    'Hitler. Always Hitler'
+    'the howling emptiness of your soul needs to be fed',
+    'the frustrations post-modernism end every conclusion with another question',
+    'of misdirected anger at teenagers',
+    'of relating a bit too much than you should to a Kafka novel',
+    'bros will worship at your gilded feet',
+    'your mom will finally see you as an adult',
+    'your dad will admit he needs therapy',
+    "the kid that bullied you will admit they've loved you all these years"
 ]
